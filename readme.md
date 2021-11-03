@@ -1,6 +1,6 @@
 # Class Roster Project
 
-Wednesday
-Yogi Zipori
+Yogi Zipori, Kiev
 Contributed to by Jane Doe, Code Ninja, KIev
 Mmmmmm Jazzzzzz
+
